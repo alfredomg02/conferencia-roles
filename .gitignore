@@ -1,0 +1,20 @@
+# Gerado pelo build — não versionar
+index.html
+fluxo-com-tarefas.html
+
+# PDFs gerados pelos scripts locais
+checklists-extraidos.pdf
+relatorio-inconsistencias.pdf
+roles-descriptions-atualizado.pdf
+
+# Scripts locais que usam caminhos Windows / fontes locais
+convert_to_pdf.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pip install -r requirements.txt && python gerar_fluxo_tarefas.py",
+  "outputDirectory": ".",
+  "installCommand": "pip install -r requirements.txt",
+  "functions": {
+    "api/save.py": { "runtime": "python3.9" },
+    "api/load.py": { "runtime": "python3.9" }
+  }
+}
