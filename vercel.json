@@ -1,5 +1,3 @@
 {
-  "buildCommand": "pip install -r requirements.txt && python gerar_fluxo_tarefas.py",
-  "outputDirectory": ".",
-  "installCommand": "pip install -r requirements.txt"
+  "outputDirectory": "."
 }
